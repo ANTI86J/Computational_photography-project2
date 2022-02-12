@@ -80,8 +80,10 @@ The facial landmark detector will give us the estimated location of 68 (x, y) pa
 
 Using inverse warping to do the morphing.Using Delaunay triangulation to organize each pair of feature points to a triangle.
 
-the dlib model we used to detect face landmarks is put in the model folder
+the dlib model we used to detect face landmarks is put in the extra_lab/model folder
+and the model will automatically locate the points of each triangle corresponding.Then generate the gif!
 
+In that way, I can see how the face morphing in a gif file!
 
 the original two images are:
 
@@ -91,3 +93,5 @@ the original two images are:
 
 and the output mp4 would be (here gives the link):
 https://www.bilibili.com/video/BV1NU4y1M7n4/
+
+2) using color to enhance the effect

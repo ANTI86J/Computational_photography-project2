@@ -1,6 +1,7 @@
 # Computational_photography-project2
 The goal of this project is to try to make a hybrid image, and to be more, to make a morphing gif
 
+1. Project details:
 First I collect some typical pictures, just like those:
 
 ![bicycle](https://user-images.githubusercontent.com/34802668/153700512-53a1503c-9174-4162-8cb4-e06e17a05e44.png)
@@ -38,19 +39,54 @@ using these two images:
 another examples would be:
 
 1) original images:
+
 ![cat](https://user-images.githubusercontent.com/34802668/153701535-6ecadd77-52fb-4fa7-af70-88b60836d6e6.png)
 
 ![dog](https://user-images.githubusercontent.com/34802668/153701538-40c67b41-ebd3-4791-9ca6-368696fa0a4a.png)
 
 and the hybrid result would be:
+
 ![hybrid_image_dog_cat](https://user-images.githubusercontent.com/34802668/153701549-d2b6ddc0-ded1-4e1d-8490-7ef9b5b27621.png)
 
 2) original images:
+
 ![marilyn](https://user-images.githubusercontent.com/34802668/153701626-6b82969c-dc7c-4979-a07e-535ed7cb312d.png)
 
 ![einstein](https://user-images.githubusercontent.com/34802668/153701641-a6fef186-170f-41e0-bfe8-8af33d79ce65.png)
 
 and the hybrid result would be:
+
 ![hybrid_image_einstein_marilyn](https://user-images.githubusercontent.com/34802668/153701662-1f4e8a60-53cc-4ae4-ae1a-8d067ed0c5f8.png)
 
 
+For those images, I used the function you gave to compute and display the 2D Fourier transform, and the result would be :
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153701760-b223c783-7e47-4f04-ae54-6eb2d69ecce4.png">
+
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153701737-fee3d791-dfe2-4ae4-8658-606360bdd2f8.png">
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153701770-82a0ce27-b41f-45aa-a39b-361956ebc5a0.png">
+
+
+2.Bells & Whistles:
+1) Generate a morphing gif:
+Luckily I have done one before, here is some details:
+Using dlib and opencv to detect the face. Advices on working with facial landmarks with dlib and opencv https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+
+the dlib model we used to detect face landmarks is put in the model folder
+
+The facial landmark detector will give us the estimated location of 68 (x, y) pair coordinates that represent salient regions of the face, including eye, eyebrows, nose, mouth, and jawline.
+
+Using inverse warping to do the morphing.Using Delaunay triangulation to organize each pair of feature points to a triangle.
+
+the dlib model we used to detect face landmarks is put in the model folder
+
+
+the original two images are:
+
+![kanna](https://user-images.githubusercontent.com/34802668/153701990-9547fbf2-44f1-4809-8cc6-9f864085e500.png)
+
+![lmy7](https://user-images.githubusercontent.com/34802668/153701995-6524c273-0b95-4245-8861-4f7cbe2a394e.png)
+
+and the output mp4 would be (here gives the link):

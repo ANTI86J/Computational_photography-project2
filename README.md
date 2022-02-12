@@ -35,3 +35,22 @@ using these two images:
 
 ![submarine](https://user-images.githubusercontent.com/34802668/153701422-a648a5e9-c1be-41e6-94b8-a3e58a4de6fb.png)
 
+another examples would be:
+
+1) original images:
+![cat](https://user-images.githubusercontent.com/34802668/153701535-6ecadd77-52fb-4fa7-af70-88b60836d6e6.png)
+
+![dog](https://user-images.githubusercontent.com/34802668/153701538-40c67b41-ebd3-4791-9ca6-368696fa0a4a.png)
+
+and the hybrid result would be:
+![hybrid_image_dog_cat](https://user-images.githubusercontent.com/34802668/153701549-d2b6ddc0-ded1-4e1d-8490-7ef9b5b27621.png)
+
+2) original images:
+![marilyn](https://user-images.githubusercontent.com/34802668/153701626-6b82969c-dc7c-4979-a07e-535ed7cb312d.png)
+
+![einstein](https://user-images.githubusercontent.com/34802668/153701641-a6fef186-170f-41e0-bfe8-8af33d79ce65.png)
+
+and the hybrid result would be:
+![hybrid_image_einstein_marilyn](https://user-images.githubusercontent.com/34802668/153701662-1f4e8a60-53cc-4ae4-ae1a-8d067ed0c5f8.png)
+
+

@@ -9,7 +9,7 @@ First I collect some typical pictures, just like those:
 
 Then, I need to write the filter,like the detail said, I tried to implement the Gaussian filter, and the equation would be:
 
-https://private.codecogs.com/gif.latex?f%28x%2Cy%29%3D%5Cfrac%7B1%7D%7B%28%5Csqrt%7B2%5Cpi%20%7D%5Csigma%20%29%5E%7B%5E%7B2%7D%7D%7De%5E%7B-%28%28x-ux%29%5E%7B%5E%7B2%7D%7D&plus;%28y-uy%29%5E%7B2%7D%29/2%5Csigma%20%5E%7B%5E%7B2%7D%7D%7D![image](https://user-images.githubusercontent.com/34802668/153700622-19e6b523-47b2-4459-b6ed-7c7738d595d2.png)
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153701491-06140d4b-653e-4f24-968c-5c58c6a6688c.png">
 
 so, according to this equation, I used numpy package to implement my 2D Gaussian filter, and then convolute the whole image using the filter, but then I found that, using this filter to convolute would lose some information around the edge, just like that:
 
@@ -35,4 +35,3 @@ using these two images:
 
 ![submarine](https://user-images.githubusercontent.com/34802668/153701422-a648a5e9-c1be-41e6-94b8-a3e58a4de6fb.png)
 
-and then, just hybrid it!But the prior problem is how to match up the size between those images,I have tried to use the Google API to locate the object and resize those images according to the proportion of the bounding size and the image size, but it's not worth that without a large scale of data in it, and for this project, I used some methods of data augmentation to make a bigger scale of data.Then I thought, what about rescale all the data so that the object in the pictures is all in the middle.So, at the end,I got this hybrid images:

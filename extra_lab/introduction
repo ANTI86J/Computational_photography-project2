@@ -1,0 +1,13 @@
+using 'python3 code/__init__.py --img1 raw_images/jennie.png --img2 raw_images/rih.png --output output.mp4' in the terminal to run these codes
+
+--img1 and --img2 means the relative paths of the image we want to use to morph, img1 is the original image and the img2 is the img after being morphed
+
+Using dlib and opencv to detect the face. Advices on working with facial landmarks with dlib and opencv https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+
+the dlib model we used to detect face landmarks is put in the model folder
+
+The facial landmark detector will give us the estimated location of 68 (x, y) pair coordinates that represent salient regions of the face, including eye, eyebrows, nose, mouth, and jawline.
+
+Using inverse warping to do the morphing.Using Delaunay triangulation to organize each pair of feature points to a triangle.
+
+Inspired by the work of Azmarie Wang

@@ -94,4 +94,6 @@ the original two images are:
 and the output mp4 would be (here gives the link):
 https://www.bilibili.com/video/BV1NU4y1M7n4/
 
+The problem of this project is that the quality of the morphing is determined by the first image in the model, because it is the standard of the whole morphing procedure.
+
 2) using color to enhance the effect

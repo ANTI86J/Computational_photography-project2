@@ -97,3 +97,15 @@ https://www.bilibili.com/video/BV1NU4y1M7n4/
 The problem of this project is that the quality of the morphing is determined by the first image in the model, because it is the standard of the whole morphing procedure.
 
 2) using color to enhance the effect
+First I transformed the color space from RGB to HSV, but it doesn't work well
+
+![hybrid_image_dog_cat1](https://user-images.githubusercontent.com/34802668/153782688-30840125-d32b-4a81-8d9a-00c188379494.png)
+
+Then I transformed the color space from RGB to LUV, the result is kind of fairy:
+
+![hybrid_image_dog_cat1](https://user-images.githubusercontent.com/34802668/153782730-78eaedbf-be4c-424e-844a-9c9f1c4faa6a.png)
+
+Then I transformed the color space from RGB to BGR, it seems like we have better color:
+
+![hybrid_image_dog_cat1](https://user-images.githubusercontent.com/34802668/153782874-d9d3681d-02c1-4add-bdba-c5f7fcc9aa27.png)
+

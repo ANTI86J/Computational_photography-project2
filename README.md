@@ -58,6 +58,18 @@ and the hybrid result would be:
 
 ![hybrid_image_einstein_marilyn](https://user-images.githubusercontent.com/34802668/153701662-1f4e8a60-53cc-4ae4-ae1a-8d067ed0c5f8.png)
 
+3) original images:
+
+![bicycle](https://user-images.githubusercontent.com/34802668/153917495-39b676f5-fcd4-4fb7-8b0c-a3cb6d77b00b.png)
+
+![motorcycle](https://user-images.githubusercontent.com/34802668/153917581-513fede3-0f2c-4718-a9b8-28285ed82fc8.png)
+
+
+and the hybrid result would be:
+
+![hybrid_image_bicycle_motorcycle](https://user-images.githubusercontent.com/34802668/153917456-502d3c14-940a-4541-a6c0-413a92f5e22d.png)
+
+
 
 For those images, I used the function you gave to compute and display the 2D Fourier transform, and the result would be :
 
@@ -67,6 +79,9 @@ For those images, I used the function you gave to compute and display the 2D Fou
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153701737-fee3d791-dfe2-4ae4-8658-606360bdd2f8.png">
 
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153701770-82a0ce27-b41f-45aa-a39b-361956ebc5a0.png">
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153917766-8b03012a-4c49-4279-8cdd-e3a423b5a4fc.png">
+
 
 
 2.Bells & Whistles:

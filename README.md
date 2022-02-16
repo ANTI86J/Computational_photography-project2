@@ -149,8 +149,6 @@ and I get low frequencies image much more clearin BGR space):
 ![image](https://user-images.githubusercontent.com/34802668/154334214-675aad06-f73e-41d2-8545-38d207bb64a8.png)
 
 
-![image](https://user-images.githubusercontent.com/34802668/154332816-abccdb9a-5468-414c-8895-83435ceaaa1e.png)
-
 And do the opposite, use just gray image to get the high frequency image and merge with original low frequency image, then I get this:
 
 ![image](https://user-images.githubusercontent.com/34802668/154337217-244b1e5d-b000-4fef-9d5b-b204c01e27ae.png)

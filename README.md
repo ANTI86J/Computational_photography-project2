@@ -86,6 +86,7 @@ For those images, I used the function you gave to compute and display the 2D Fou
 
 2.Bells & Whistles:
 1) Generate a morphing gif:
+The reason I thought of the following method is that for face morphing, all we need to do is to select some specific points in the first image and then find the corresponding one in the second image.When we find those points pair, the next thing we do is to make routes from one to the other so that we can generate the gif, so the model I used in it couldn't be more appropriate!
 Luckily I have done one before, here is some details:
 Using dlib and opencv to detect the face. Advices on working with facial landmarks with dlib and opencv https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 
@@ -125,3 +126,5 @@ Then I transformed the color space from RGB to BGR, it seems like we have better
 
 ![hybrid_image_dog_cat1](https://user-images.githubusercontent.com/34802668/153782874-d9d3681d-02c1-4add-bdba-c5f7fcc9aa27.png)
 
+
+Group Member:Jingzhou Shen

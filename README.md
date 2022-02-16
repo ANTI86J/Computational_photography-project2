@@ -85,7 +85,7 @@ For those images, I used the function you gave to compute and display the 2D Fou
 
 
 2.Bells & Whistles:
-1) Generate a morphing gif:
+1)) Generate a morphing gif:
 
 The reason I thought of the following method is that for face morphing, all we need to do is to select some specific points in the first image and then find the corresponding one in the second image.When we find those points pair, the next thing we do is to make routes from one to the other so that we can generate the gif, so the model I used in it couldn't be more appropriate!
 
@@ -115,7 +115,7 @@ https://www.bilibili.com/video/BV1NU4y1M7n4/
 
 The problem of this project is that the quality of the morphing is determined by the first image in the model, because it is the standard of the whole morphing procedure.
 
-2) using color to enhance the effect
+2)) using color to enhance the effect
 
 First I transformed the color space from RGB to HSV, but it doesn't work well
 

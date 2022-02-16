@@ -134,7 +134,7 @@ Using gray image for both high frequency image and low frequency image and merge
 
 ![image](https://user-images.githubusercontent.com/34802668/154332125-312e2ba2-ea87-413c-89d0-678639ee5184.png)
 
-but when I tried to use just gray image to get the low frequency image and merge with original high frequency image(in BGR space), I get this image which is obvious wrong
+but when I tried to use just gray image to get the low frequency image and merge with original high frequency image, I get this image which is obvious wrong
 
 ![image](https://user-images.githubusercontent.com/34802668/154332816-abccdb9a-5468-414c-8895-83435ceaaa1e.png)
 
@@ -144,7 +144,7 @@ after fixing this, I getin BGR space):
 
 ![image](https://user-images.githubusercontent.com/34802668/154333973-c40cd2ac-37b5-46dd-b6e6-01056e5afd61.png)
 
-and I get low frequencies image much more clearin BGR space):
+and I get low frequencies image much more clear:
 
 ![image](https://user-images.githubusercontent.com/34802668/154334214-675aad06-f73e-41d2-8545-38d207bb64a8.png)
 

@@ -175,6 +175,9 @@ high frequencies image is gray when low  frequencies image is a RGB image:
 
 ![image](https://user-images.githubusercontent.com/34802668/154588865-72672f1f-e5f8-439c-a695-0f9ceb17f4bb.png)
 
+Both would be gray image:
+
+![image](https://user-images.githubusercontent.com/34802668/154590575-c327449a-6a74-4a85-b7be-8922ac690545.png)
 
 
 

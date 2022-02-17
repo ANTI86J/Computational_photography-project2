@@ -162,5 +162,9 @@ And do the opposite, use just gray image to get the high frequency image and mer
 
 ![image](https://user-images.githubusercontent.com/34802668/154337217-244b1e5d-b000-4fef-9d5b-b204c01e27ae.png)
 
+Both are the gray images:
+
+![image](https://user-images.githubusercontent.com/34802668/154575397-fb4a1a79-87db-4e65-86ee-4c261ba01998.png)
+
 
 Group Member:Jingzhou Shen

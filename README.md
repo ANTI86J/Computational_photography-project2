@@ -143,6 +143,8 @@ Using gray image for both high frequency image and low frequency image and merge
 
 ![image](https://user-images.githubusercontent.com/34802668/154332125-312e2ba2-ea87-413c-89d0-678639ee5184.png)
 
+but it turns out to be a image with color!Then I found that it's something wrong with my data format, I force the image format from .bmp to .png so that the color space would not be the same as well, so when I want to have a grayscale image, the pixel itself would not mean to be the range of it should be
+
 but when I tried to use just gray image to get the low frequency image and merge with original high frequency image, I get this image which is obvious wrong.
 
 ![image](https://user-images.githubusercontent.com/34802668/154332816-abccdb9a-5468-414c-8895-83435ceaaa1e.png)

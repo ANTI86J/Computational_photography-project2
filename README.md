@@ -71,7 +71,7 @@ and the hybrid result would be:
 
 4) original images:
 
-<img width="184" alt="image" src="https://user-images.githubusercontent.com/34802668/154573915-e0b3eddb-5031-4ad8-8f33-4c53c503a0c5.png">
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/34802668/154573915-e0b3eddb-5031-4ad8-8f33-4c53c503a0c5.png">
 
 ![sum-of-marilyns1](https://user-images.githubusercontent.com/34802668/154573982-487a3d8b-4faa-4904-a9be-6f82daf95561.png)
 

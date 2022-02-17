@@ -141,9 +141,13 @@ Then I transformed the color space from RGB to BGR, it seems like we have better
 
 Using gray image for both high frequency image and low frequency image and merge:
 
+But first time it turns out to be green:
+
+![image](https://user-images.githubusercontent.com/34802668/154590689-20135e32-efd7-4d21-a53d-04b567b00eff.png)
+
 ![image](https://user-images.githubusercontent.com/34802668/154332125-312e2ba2-ea87-413c-89d0-678639ee5184.png)
 
-but it turns out to be a image with color!Then I found that it's something wrong with my data format, I force the image format from .bmp to .png so that the color space would not be the same as well, so when I want to have a grayscale image, the pixel itself would not mean to be the range of it should be
+and I found out I missed one parameter when trying to show the grayscale image of .bmp file (when using pyplot to show the image), it is  cmap=plt.get_cmap('gray')
 
 but when I tried to use just gray image to get the low frequency image and merge with original high frequency image, I get this image which is obvious wrong.
 
@@ -177,11 +181,6 @@ high frequencies image is gray when low  frequencies image is a RGB image:
 
 Both would be gray image:
 
-But first time it turns out to be green:
-
-![image](https://user-images.githubusercontent.com/34802668/154590689-20135e32-efd7-4d21-a53d-04b567b00eff.png)
-
-and I found out I missed one parameter when trying to show the grayscale image of .bmp file (when using pyplot to show the image), it is  cmap=plt.get_cmap('gray')
 
 ![image](https://user-images.githubusercontent.com/34802668/154590575-c327449a-6a74-4a85-b7be-8922ac690545.png)
 

@@ -165,5 +165,20 @@ Both are the gray images:
 
 ![image](https://user-images.githubusercontent.com/34802668/154575397-fb4a1a79-87db-4e65-86ee-4c261ba01998.png)
 
+Another example:
+
+low frequencies image is gray when high frequencies image is a RGB image:
+
+![image](https://user-images.githubusercontent.com/34802668/154588764-bcf34ce4-8cdf-49cd-8b83-f475afc8cbce.png)
+
+high frequencies image is gray when low  frequencies image is a RGB image:
+
+![image](https://user-images.githubusercontent.com/34802668/154588865-72672f1f-e5f8-439c-a695-0f9ceb17f4bb.png)
+
+
+
+
+I found that the color of the submarine image is quite dark, and the same with the fish image, so when I merge them together, you can just find some edges of the submarine, that's what I should be avoid of. But on the contrary, the hybrid image with bicycle and motor would be quite great, since they have some dark and bright colors, so that when hybriding, both could be seen much more clearly
+
 
 Group Member:Jingzhou Shen

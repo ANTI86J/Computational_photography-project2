@@ -69,6 +69,15 @@ and the hybrid result would be:
 
 ![hybrid_image_bicycle_motorcycle](https://user-images.githubusercontent.com/34802668/153917456-502d3c14-940a-4541-a6c0-413a92f5e22d.png)
 
+4) original images:
+
+<img width="184" alt="image" src="https://user-images.githubusercontent.com/34802668/154573915-e0b3eddb-5031-4ad8-8f33-4c53c503a0c5.png">
+
+![sum-of-marilyns1](https://user-images.githubusercontent.com/34802668/154573982-487a3d8b-4faa-4904-a9be-6f82daf95561.png)
+
+and the result:
+
+![backwards](https://user-images.githubusercontent.com/34802668/154574012-3f44d691-ae45-44fb-a0d3-5ea31bb0036a.png)
 
 
 For those images, I used the function you gave to compute and display the 2D Fourier transform, and the result would be :

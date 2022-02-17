@@ -149,13 +149,9 @@ but when I tried to use just gray image to get the low frequency image and merge
 
 Then I found it is when I get the format of the image wrongly
 
-after fixing this, I getin BGR space):
+after fixing this, I get:
 
-![image](https://user-images.githubusercontent.com/34802668/154333973-c40cd2ac-37b5-46dd-b6e6-01056e5afd61.png)
-
-and I get low frequencies image much more clear:
-
-![image](https://user-images.githubusercontent.com/34802668/154334214-675aad06-f73e-41d2-8545-38d207bb64a8.png)
+![image](https://user-images.githubusercontent.com/34802668/154587867-543d205c-576a-40c4-ab71-0ea915e90a27.png)
 
 
 And do the opposite, use just gray image to get the high frequency image and merge with original low frequency image, then I get this:

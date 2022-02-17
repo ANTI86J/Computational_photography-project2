@@ -143,11 +143,12 @@ Using gray image for both high frequency image and low frequency image and merge
 
 ![image](https://user-images.githubusercontent.com/34802668/154332125-312e2ba2-ea87-413c-89d0-678639ee5184.png)
 
-but when I tried to use just gray image to get the low frequency image and merge with original high frequency image, I get this image which is obvious wrong
+but when I tried to use just gray image to get the low frequency image and merge with original high frequency image, I get this image which is obvious wrong.
 
 ![image](https://user-images.githubusercontent.com/34802668/154332816-abccdb9a-5468-414c-8895-83435ceaaa1e.png)
 
-Then I found it is when I get the format of the image wrongly
+
+Then I found it is when I get the range of my value in my low frequencies image wrongly so the hybrid is almost the same with the high frequencies image
 
 after fixing this, I get:
 

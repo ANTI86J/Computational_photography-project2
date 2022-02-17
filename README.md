@@ -177,6 +177,12 @@ high frequencies image is gray when low  frequencies image is a RGB image:
 
 Both would be gray image:
 
+But first time it turns out to be green:
+
+![image](https://user-images.githubusercontent.com/34802668/154590689-20135e32-efd7-4d21-a53d-04b567b00eff.png)
+
+and I found out I missed one parameter when trying to show the grayscale image of .bmp file (when using pyplot to show the image), it is  cmap=plt.get_cmap('gray')
+
 ![image](https://user-images.githubusercontent.com/34802668/154590575-c327449a-6a74-4a85-b7be-8922ac690545.png)
 
 

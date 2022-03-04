@@ -91,6 +91,18 @@ For those images, I used the function you gave to compute and display the 2D Fou
 
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153917766-8b03012a-4c49-4279-8cdd-e3a423b5a4fc.png">
 
+More images:
+Original:
+
+![Robert-Pattinson-as-Bruce-Wayne-in-The-Batman](https://user-images.githubusercontent.com/34802668/156717314-eb569e8f-b1f8-4aa8-8d87-bcfc939840b0.jpg)
+
+![joker-joaquin-hi-res](https://user-images.githubusercontent.com/34802668/156717334-8ac14393-f9af-4479-b985-018237649c3a.jpg)
+
+
+Hybrid:
+
+![hybrid_image_Joker_Batman1](https://user-images.githubusercontent.com/34802668/156717378-8e0c3cb6-c6d8-419a-a202-5abf0f24dfda.png)
+
 
 
 2.Bells & Whistles:

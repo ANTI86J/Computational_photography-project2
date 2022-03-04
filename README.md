@@ -92,6 +92,7 @@ For those images, I used the function you gave to compute and display the 2D Fou
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/34802668/153917766-8b03012a-4c49-4279-8cdd-e3a423b5a4fc.png">
 
 More images:
+
 Original:
 
 ![Robert-Pattinson-as-Bruce-Wayne-in-The-Batman](https://user-images.githubusercontent.com/34802668/156717314-eb569e8f-b1f8-4aa8-8d87-bcfc939840b0.jpg)

@@ -102,6 +102,9 @@ Original:
 
 Hybrid:
 
+![hybrid_image_Bruce_Wayne_Joker1](https://user-images.githubusercontent.com/34802668/156725123-ad4671a9-1cec-4d6e-8fa5-e8f557ebf940.png)
+
+
 ![hybrid_image_Joker_Batman1](https://user-images.githubusercontent.com/34802668/156717378-8e0c3cb6-c6d8-419a-a202-5abf0f24dfda.png)
 
 

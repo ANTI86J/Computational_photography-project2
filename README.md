@@ -104,6 +104,31 @@ Hybrid:
 ![hybrid_image_Joker_Batman1](https://user-images.githubusercontent.com/34802668/156717378-8e0c3cb6-c6d8-419a-a202-5abf0f24dfda.png)
 
 
+Original:
+
+![Kb](https://user-images.githubusercontent.com/34802668/156718185-673bd91f-dd99-46ff-ad68-ec78931f0293.jpg)
+
+![michael-jordan-jersey](https://user-images.githubusercontent.com/34802668/156718221-5eb62bf5-056f-466b-b322-121bf5249539.jpg)
+
+Hybrid Image:
+
+![hybrid_image_Kobe_Jordan1](https://user-images.githubusercontent.com/34802668/156718289-bede4b81-64b3-46d0-8ddb-b9a3c74a7208.png)
+
+
+Original:
+
+ ![90](https://user-images.githubusercontent.com/34802668/156720669-a2309aeb-d19f-4e38-82fc-c228c39b8c63.jpg)
+
+![saka_58](https://user-images.githubusercontent.com/34802668/156720684-a2633709-8572-4b6b-b316-3fbd7c7f2b14.jpg)
+
+
+Hybrid:
+
+![hybrid_image_Smith_rowe_saka1](https://user-images.githubusercontent.com/34802668/156720742-397b6718-2a23-48d0-871d-e3dfdf9ea42b.png)
+
+
+
+
 
 2.Bells & Whistles:
 

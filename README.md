@@ -124,7 +124,19 @@ Original:
 
 Hybrid:
 
-![hybrid_image_Smith_rowe_saka1](https://user-images.githubusercontent.com/34802668/156720742-397b6718-2a23-48d0-871d-e3dfdf9ea42b.png)
+![hybrid_image_Smith_rowe_saka1](https://user-images.githubusercontent.com/34802668/156722097-ad33be8c-14fa-4d98-98ed-382d9eaa73c6.png)
+
+
+Original:
+
+![xiaohu](https://user-images.githubusercontent.com/34802668/156723213-d0bec598-7424-407d-9d80-08e739c2f51f.jpg)
+
+![theshy](https://user-images.githubusercontent.com/34802668/156723232-3afd29b9-185f-4c11-88f4-3b0b4ea1258e.jpg)
+
+Hybrid:
+
+![hybrid_image_xiaohu_theshy1](https://user-images.githubusercontent.com/34802668/156723511-002a8e72-a7a1-4e48-9810-c3cb9759e4eb.png)
+
 
 
 
